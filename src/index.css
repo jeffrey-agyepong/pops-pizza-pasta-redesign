@@ -14,8 +14,9 @@ h1 {
   font-size: 1.25rem;
 }
 
-h1,
-nav ul li {
+.site-id,
+nav ul li,
+.hero-text {
   font-family: 'Oleo Script Swash Caps', cursive;
 }
 
