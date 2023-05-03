@@ -5,7 +5,7 @@ module.exports = {
   content: ['index.html', './src/**/*.{js,jsx,ts,tsx,vue,html}', './node_modules/flowbite/**/*.js'],
   theme: {
     colors: {
-      'bg-header-green': '#015104',
+      'header-green': '#015104',
     },
     extend: {},
   },

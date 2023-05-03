@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-/* font-family: 'Oleo Script', cursive;
+/* font-family: 'Frank Ruhl Libre', serif;
+font-family: 'Oleo Script', cursive;
 font-family: 'Oleo Script Swash Caps', cursive; */
+body {
+  font-family: 'Frank Ruhl Libre', serif;
+  font-weight: 300;
+}
 
 .logo {
   width: 60px;
@@ -29,7 +34,8 @@ h1 {
 
 .site-id,
 nav ul li,
-.hero-text {
+.hero-text,
+h2 {
   font-family: 'Oleo Script Swash Caps', cursive;
 }
 
