@@ -33,12 +33,13 @@ h1 {
 }
 
 .site-id,
-nav ul li,
 .hero-text,
 h2 {
   font-family: 'Oleo Script Swash Caps', cursive;
 }
 
+h3,
+nav ul li,
 .button {
   font-family: 'Oleo Script', cursive;
 }
